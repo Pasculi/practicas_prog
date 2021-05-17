@@ -1,2 +1,2 @@
-# practicas_prog
+# Prácticas de programación en Javascript
  Bienvenido
